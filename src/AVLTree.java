@@ -3,8 +3,25 @@
 // Hussein Suleman
 // reference: kukuruku.co/post/avl-trees/
 
+/**
+ * AVLTree object. This is a special kind of Binary Search Tree which self balances. The height of a left sub tree and right sub tree may only differ by 1 at a given node.
+ * 
+ * @param <dataType> This is the data type which is sotred in the AVL data structure, and it must extend comparable.
+ */
+
 public class AVLTree<dataType extends Comparable<? super dataType>> extends BinaryTree<dataType>
 {
+   /**
+    * This method determines the height of a given @param node in the AVL tree
+    * 
+    * @param node this the node on which the height method is done. It is a node in the AVL tree
+    * @return this returns the height of @param node as an int. If the node isn't null otherwise it will return -1.
+    */
+
+    public int DiscreteCounterInsert = 0;
+    public int DiscreteCounterFind = 0;
+
+
    public int height ( BinaryTreeNode<dataType> node )
    {
       if (node != null)
@@ -12,16 +29,31 @@ public class AVLTree<dataType extends Comparable<? super dataType>> extends Bina
       return -1;
    }
    
+   /**
+    * This methods determines the balancing factor of a given node. this is determined by taking the difference of the right sub tree and left sub tree of a node
+    * 
+    * @param node the node in the AVL tree whose balance factor is being determined
+    * @return an int which is the difference of the right and left subtrees of @param node
+    */
    public int balanceFactor ( BinaryTreeNode<dataType> node )
    {
       return height (node.right) - height (node.left);
    }
-   
+   /**
+    * This method sets the height of a node as the maximum of the left and right sub trees
+    * 
+    * @param node this is the Binary Tree Node which the method operates on.
+    */
    public void fixHeight ( BinaryTreeNode<dataType> node )
    {
       node.height = Math.max (height (node.left), height (node.right)) + 1;
    }
-   
+   /**
+    * This method rotates the right sub tree of a node to the left.
+    * 
+    * @param p the node which is being rotated.
+    * @return a BinaryTreeNode which has been rotated to the right.
+    */
    public BinaryTreeNode<dataType> rotateRight ( BinaryTreeNode<dataType> p )
    {
       BinaryTreeNode<dataType> q = p.left;
@@ -32,6 +64,12 @@ public class AVLTree<dataType extends Comparable<? super dataType>> extends Bina
       return q;
    }
 
+   /**
+    * This method rotates the left sub tree of a node to the right.
+    * 
+    * @param q the node which is being rotated.
+    * @return a BinaryTreeNode which has been rotated to the left.
+    */
    public BinaryTreeNode<dataType> rotateLeft ( BinaryTreeNode<dataType> q )
    {
       BinaryTreeNode<dataType> p = q.right;
@@ -41,18 +79,27 @@ public class AVLTree<dataType extends Comparable<? super dataType>> extends Bina
       fixHeight (p);
       return p;
    }
-   
+   /**
+    * A method that will balance a node by finding the balance factors of nodes, and rotating the nodes left or right depending on the balance factor
+    * 
+    * @param p the node which is being balanced
+    * @return a balanced BinaryTreeNode which has a Balance factor of at most 1.
+    */
    public BinaryTreeNode<dataType> balance ( BinaryTreeNode<dataType> p )
    {
       fixHeight (p);
+      DiscreteCounterInsert++;
       if (balanceFactor (p) == 2)
       {
+         DiscreteCounterInsert++;
          if (balanceFactor (p.right) < 0)
             p.right = rotateRight (p.right);
          return rotateLeft (p);
       }
+      DiscreteCounterInsert++;
       if (balanceFactor (p) == -2)
       {
+         DiscreteCounterInsert++;
          if (balanceFactor (p.left) > 0)
             p.left = rotateLeft (p.left);
          return rotateRight (p);
@@ -60,14 +107,27 @@ public class AVLTree<dataType extends Comparable<? super dataType>> extends Bina
       return p;
    }
 
+   /**
+    * Method to insert an object into the AVL tree.
+    * 
+    * @param d the object being inserted which is of the same dataType as the other nodes.
+    */
    public void insert ( dataType d )
    {
       root = insert (d, root);
    }
+   /**
+    * Method which will insert an object into the AVL tree by starting at the root node and recursivly going through the nodes.
+    * 
+    * @param d the object which is being inserted
+    * @param node the current node which is being operated on. Starts as the root node of the tree.
+    * @return returns a balanced Binary Tree Node. or if the tree is null, returns an empty tree with @param d as the root.
+    */
    public BinaryTreeNode<dataType> insert ( dataType d, BinaryTreeNode<dataType> node )
    {
       if (node == null)
          return new BinaryTreeNode<dataType> (d, null, null);
+      DiscreteCounterInsert++;
       if (d.compareTo (node.data) <= 0)
          node.left = insert (d, node.left);
       else
@@ -75,10 +135,22 @@ public class AVLTree<dataType extends Comparable<? super dataType>> extends Bina
       return balance (node);
    }
    
+   /**
+    * Method to remove an Object from the AVL Tree starting at the root node and recursivly working through the nodes.
+    * 
+    * @param d the object whihc is being removed
+    */
    public void delete ( dataType d )
    {
       root = delete (d, root);
    }   
+   /**
+    * Method which removes an object from the AVL tree.
+    * 
+    * @param d the object which will be removed.
+    * @param node the node which is being checked 
+    * @return a balanced BinaryTreeNode.
+    */
    public BinaryTreeNode<dataType> delete ( dataType d, BinaryTreeNode<dataType> node )
    {
       if (node == null) return null;
@@ -100,6 +172,12 @@ public class AVLTree<dataType extends Comparable<? super dataType>> extends Bina
       return balance (node);
    }
    
+   /**
+    * Method which finds the left most node in the AVL Tree by recursivly calling the left tree.
+    * 
+    * @param node the current node which is being operated on.
+    * @return a BinaryTreeNode which is the left most branch.
+    */
    public BinaryTreeNode<dataType> findMin ( BinaryTreeNode<dataType> node )
    {
       if (node.left != null)
@@ -108,6 +186,12 @@ public class AVLTree<dataType extends Comparable<? super dataType>> extends Bina
          return node;
    }
 
+   /**
+    * Method to removes the minimal element in the tree by recursivly going through the nodes in the tree.
+    * 
+    * @param node the current node in the AVL tree being operated on
+    * @return returns a balanced @param node
+    */
    public BinaryTreeNode<dataType> removeMin ( BinaryTreeNode<dataType> node )
    {
       if (node.left == null)
@@ -116,6 +200,12 @@ public class AVLTree<dataType extends Comparable<? super dataType>> extends Bina
       return balance (node);
    }
 
+   /**
+    * A method to find an object in a given AVL tree starting with the root node of the tree.
+    * 
+    * @param d the object which is being searched for.
+    * @return reursivly finds the element in the Tree. 
+    */
    public BinaryTreeNode<dataType> find ( dataType d )
    {
       if (root == null)
@@ -123,20 +213,40 @@ public class AVLTree<dataType extends Comparable<? super dataType>> extends Bina
       else
          return find (d, root);
    }
+   /**
+    * A method to find an object in an ALV tree at a given node.
+    * 
+    * @param d the object which is being searched for
+    * @param node the node being compared to the object @param d
+    * @return returns either the object or recursivly calls the find method on the left or right subtree.
+    */
    public BinaryTreeNode<dataType> find ( dataType d, BinaryTreeNode<dataType> node )
    {
-      if (d.compareTo (node.data) == 0) 
-         return node;
-      else if (d.compareTo (node.data) < 0)
-         return (node.left == null) ? null : find (d, node.left);
-      else
-         return (node.right == null) ? null : find (d, node.right);
+      DiscreteCounterFind++;
+      if (d.compareTo (node.data) == 0) {
+         return node;}
+
+      else if (d.compareTo (node.data) < 0){
+         DiscreteCounterFind++;
+         return (node.left == null) ? null : find (d, node.left);}
+      else{
+         DiscreteCounterFind++;
+         return (node.right == null) ? null : find (d, node.right);}
    }
    
+   /**
+    * Method to print out the objects in an AVL Tree in the tree Order starting at the root node.
+    */
    public void treeOrder ()
    {
       treeOrder (root, 0);
    }
+   /**
+    * A method which recursily prints out the Tree order of an AVL Tree by recursivly calling the treeORder method on a given node. 
+    * 
+    * @param node the current node which is the treeOrder method is operating on
+    * @param level an integer representing the level of the tree
+    */
    public void treeOrder ( BinaryTreeNode<dataType> node, int level )
    {
       if (node != null)

@@ -1,0 +1,1191 @@
+Number of comparisons to find:12,
+Number of comparisons to find:30,
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:32,
+Number of comparisons to find:26,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:32,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:18,
+Number of comparisons to find:32,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:14,
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:30,
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:30,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:28,
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:18,
+Number of comparisons to find:32,
+Number of comparisons to find:18,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:36,
+Number of comparisons to find:30,
+Number of comparisons to find:18,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:18,
+Number of comparisons to find:22,
+Number of comparisons to find:30,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:30,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:18,
+Number of comparisons to find:28,
+Number of comparisons to find:26,
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:32,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:16,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:28,
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:18,
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:18,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:20,
+Number of comparisons to find:18,
+Number of comparisons to find:24,
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:36,
+Number of comparisons to find:32,
+Number of comparisons to find:24,
+Number of comparisons to find:34,
+Number of comparisons to find:24,
+Number of comparisons to find:18,
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:16,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:32,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:26,
+Number of comparisons to find:30,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:18,
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:16,
+Number of comparisons to find:22,
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:34,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:30,
+Number of comparisons to find:28,
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:34,
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:34,
+Number of comparisons to find:32,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:18,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:34,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:42,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:24,
+Number of comparisons to find:32,
+Number of comparisons to find:26,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:32,
+Number of comparisons to find:34,
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:22,
+Number of comparisons to find:26,
+Number of comparisons to find:16,
+Number of comparisons to find:18,
+Number of comparisons to find:18,
+Number of comparisons to find:18,
+Number of comparisons to find:26,
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:32,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:36,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:18,
+Number of comparisons to find:22,
+Number of comparisons to find:20,
+Number of comparisons to find:26,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:36,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:36,
+Number of comparisons to find:30,
+Number of comparisons to find:18,
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:12,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:18,
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:26,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:26,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:28,
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:32,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:16,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:38,
+Number of comparisons to find:26,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:28,
+Number of comparisons to find:30,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:32,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:18,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:32,
+Number of comparisons to find:26,
+Number of comparisons to find:24,
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:30,
+Number of comparisons to find:20,
+Number of comparisons to find:22,
+Number of comparisons to find:18,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:42,
+Number of comparisons to find:16,
+Number of comparisons to find:30,
+Number of comparisons to find:30,
+Number of comparisons to find:20,
+Number of comparisons to find:42,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:28,
+Number of comparisons to find:30,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:32,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:30,
+Number of comparisons to find:30,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:36,
+Number of comparisons to find:42,
+Number of comparisons to find:18,
+Number of comparisons to find:22,
+Number of comparisons to find:18,
+Number of comparisons to find:38,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:22,
+Number of comparisons to find:26,
+Number of comparisons to find:18,
+Number of comparisons to find:18,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:20,
+Number of comparisons to find:14,
+Number of comparisons to find:16,
+Number of comparisons to find:20,
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:20,
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:16,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:34,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:14,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:18,
+Number of comparisons to find:18,
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:16,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:36,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:28,
+Number of comparisons to find:14,
+Number of comparisons to find:26,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:36,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:16,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:30,
+Number of comparisons to find:32,
+Number of comparisons to find:28,
+Number of comparisons to find:40,
+Number of comparisons to find:24,
+Number of comparisons to find:16,
+Number of comparisons to find:24,
+Number of comparisons to find:32,
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:18,
+Number of comparisons to find:24,
+Number of comparisons to find:14,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:16,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:22,
+Number of comparisons to find:28,
+Number of comparisons to find:26,
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:34,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:18,
+Number of comparisons to find:40,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:18,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:28,
+Number of comparisons to find:26,
+Number of comparisons to find:28,
+Number of comparisons to find:32,
+Number of comparisons to find:22,
+Number of comparisons to find:28,
+Number of comparisons to find:26,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:22,
+Number of comparisons to find:26,
+Number of comparisons to find:26,
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:20,
+Number of comparisons to find:28,
+Number of comparisons to find:38,
+Number of comparisons to find:30,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:20,
+Number of comparisons to find:32,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:36,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:16,
+Number of comparisons to find:22,
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:22,
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:36,
+Number of comparisons to find:20,
+Number of comparisons to find:30,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:18,
+Number of comparisons to find:24,
+Number of comparisons to find:24,
+Number of comparisons to find:14,
+Number of comparisons to find:20,
+Number of comparisons to find:18,
+Number of comparisons to find:26,
+Number of comparisons to find:18,
+Number of comparisons to find:40,
+Number of comparisons to find:20,
+Number of comparisons to find:16,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:18,
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:22,
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:16,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:34,
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:44,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:22,
+Number of comparisons to find:28,
+Number of comparisons to find:18,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:18,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:18,
+Number of comparisons to find:30,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:34,
+Number of comparisons to find:20,
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:30,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:16,
+Number of comparisons to find:22,
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:28,
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:16,
+Number of comparisons to find:22,
+Number of comparisons to find:20,
+Number of comparisons to find:32,
+Number of comparisons to find:36,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:28,
+Number of comparisons to find:32,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:36,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:40,
+Number of comparisons to find:18,
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:18,
+Number of comparisons to find:30,
+Number of comparisons to find:32,
+Number of comparisons to find:32,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:44,
+Number of comparisons to find:22,
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:40,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:18,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:22,
+Number of comparisons to find:16,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:18,
+Number of comparisons to find:16,
+Number of comparisons to find:16,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:28,
+Number of comparisons to find:28,
+Number of comparisons to find:20,
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:32,
+Number of comparisons to find:40,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:20,
+Number of comparisons to find:32,
+Number of comparisons to find:14,
+Number of comparisons to find:30,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:16,
+Number of comparisons to find:26,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:24,
+Number of comparisons to find:40,
+Number of comparisons to find:30,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:18,
+Number of comparisons to find:32,
+Number of comparisons to find:22,
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:16,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:16,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:28,
+Number of comparisons to find:30,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:28,
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:30,
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:36,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:26,
+Number of comparisons to find:36,
+Number of comparisons to find:30,
+Number of comparisons to find:30,
+Number of comparisons to find:26,
+Number of comparisons to find:22,
+Number of comparisons to find:24,
+Number of comparisons to find:20,
+Number of comparisons to find:16,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:32,
+Number of comparisons to find:24,
+Number of comparisons to find:30,
+Number of comparisons to find:24,
+Number of comparisons to find:26,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:18,
+Number of comparisons to find:36,
+Number of comparisons to find:22,
+Number of comparisons to find:20,
+Number of comparisons to find:32,
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:22,
+Number of comparisons to find:24,
+Number of comparisons to find:30,
+Number of comparisons to find:38,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:26,
+Number of comparisons to find:16,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:32,
+Number of comparisons to find:24,
+Number of comparisons to find:40,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:36,
+Number of comparisons to find:22,
+Number of comparisons to find:24,
+Number of comparisons to find:26,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:22,
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:34,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:26,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:34,
+Number of comparisons to find:26,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:34,
+Number of comparisons to find:22,
+Number of comparisons to find:26,
+Number of comparisons to find:20,
+Number of comparisons to find:20,
+Number of comparisons to find:30,
+Number of comparisons to find:32,
+Number of comparisons to find:24,
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:16,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:16,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:32,
+Number of comparisons to find:32,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:28,
+Number of comparisons to find:18,
+Number of comparisons to find:16,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:20,
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:32,
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:42,
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:20,
+Number of comparisons to find:30,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:18,
+Number of comparisons to find:26,
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:30,
+Number of comparisons to find:32,
+Number of comparisons to find:20,
+Number of comparisons to find:22,
+Number of comparisons to find:30,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:30,
+Number of comparisons to find:26,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:22,
+Number of comparisons to find:26,
+Number of comparisons to find:28,
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:32,
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:34,
+Number of comparisons to find:30,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:28,
+Number of comparisons to find:32,
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:28,
+Number of comparisons to find:28,
+Number of comparisons to find:18,
+Number of comparisons to find:24,
+Number of comparisons to find:32,
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:16,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:30,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:38,
+Number of comparisons to find:30,
+Number of comparisons to find:26,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:16,
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:32,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:32,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:18,
+Number of comparisons to find:16,
+Number of comparisons to find:20,
+Number of comparisons to find:22,
+Number of comparisons to find:34,
+Number of comparisons to find:36,
+Number of comparisons to find:28,
+Number of comparisons to find:32,
+Number of comparisons to find:16,
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:30,
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:32,
+Number of comparisons to find:18,
+Number of comparisons to find:40,
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:32,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:16,
+Number of comparisons to find:32,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:20,
+Number of comparisons to find:22,
+Number of comparisons to find:24,
+Number of comparisons to find:16,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:28,
+Number of comparisons to find:24,
+Number of comparisons to find:20,
+Number of comparisons to find:22,
+Number of comparisons to find:36,
+Number of comparisons to find:36,
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:32,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:18,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:34,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:30,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:38,
+Number of comparisons to find:18,
+Number of comparisons to find:26,
+Number of comparisons to find:22,
+Number of comparisons to find:26,
+Number of comparisons to find:20,
+Number of comparisons to find:32,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:14,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:16,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:16,
+Number of comparisons to find:14,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:20,
+Number of comparisons to find:14,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:38,
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:30,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:40,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:20,
+Number of comparisons to find:18,
+Number of comparisons to find:22,
+Number of comparisons to find:32,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:22,
+Number of comparisons to find:18,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:18,
+Number of comparisons to find:30,
+Number of comparisons to find:28,
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:20,
+Number of comparisons to find:24,
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:30,
+Number of comparisons to find:26,
+Number of comparisons to find:26,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:18,
+Number of comparisons to find:36,
+Number of comparisons to find:20,
+Number of comparisons to find:16,
+Number of comparisons to find:32,
+Number of comparisons to find:18,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:18,
+Number of comparisons to find:24,
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:22,
+Number of comparisons to find:34,
+Number of comparisons to find:28,
+Number of comparisons to find:18,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:32,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:28,
+Number of comparisons to find:24,
+Number of comparisons to find:30,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:34,
+Number of comparisons to find:24,
+Number of comparisons to find:32,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:32,
+Number of comparisons to find:18,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:30,
+Number of comparisons to find:38,
+Number of comparisons to find:36,
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:32,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:36,
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:32,
+Number of comparisons to find:44,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:28,
+Number of comparisons to find:18,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:32,
+Number of comparisons to find:22,
+Number of comparisons to find:22,
+Number of comparisons to find:34,
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:32,
+Number of comparisons to find:22,
+Number of comparisons to find:32,
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:18,
+Number of comparisons to find:30,
+Number of comparisons to find:18,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:28,
+Number of comparisons to find:34,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:26,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:20,
+Number of comparisons to find:30,
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:30,
+Number of comparisons to find:32,
+Number of comparisons to find:32,
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:28,
+Number of comparisons to find:16,
+Number of comparisons to find:24,
+Number of comparisons to find:20,
+Number of comparisons to find:40,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:22,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:24,
+Number of comparisons to find:20,
+Number of comparisons to find:,Number of comparisons to insert:
+Number of comparisons to find:28,
+Number of comparisons to find:,Number of comparisons to insert:

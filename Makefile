@@ -10,7 +10,8 @@ CLASSES=BinaryTreeNode.class BTQueueNode.class BTQueue.class \
 		BinaryTree.class \
         BinarySearchTree.class LSData.class MyBinTree.class \
 		LSBSTApp.class\
-		AVLTree.class AVLTreeTest.class
+		AVLTree.class AVLTreeTest.class MyAVLTree.class \
+		AVLTApp.class BTree.class LSBTree.class BTreeApp.class
 
 CLASS_FILES=$(CLASSES:%.class=$(BINDIR)/%.class)
 default: $(CLASS_FILES)

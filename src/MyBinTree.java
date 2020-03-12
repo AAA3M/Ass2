@@ -47,7 +47,7 @@ public class MyBinTree{
      * @throws IOException throws an exception if there is no file or the buffered reader doesn't work
      */
 
-    public int fileLen() throws IOException{
+    private int fileLen() throws IOException{
         int fileLeng = 0;
 
         BufferedReader br = new BufferedReader(new FileReader(this.file));
