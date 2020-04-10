@@ -95,12 +95,12 @@ public class MyBinTree{
                 System.out.println(bt.DiscreteCounterInsert);
                 System.out.println("Number of comparisons to find:");
                 System.out.println(bt.DiscreteCounter);
+            
             }
-        
-        else
-        {
-            System.out.println("Invalid Arguments");
-        }
+            else
+                System.out.println("Invalid Arguments");
+            
+    
     
     
     }  

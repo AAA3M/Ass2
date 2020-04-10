@@ -20,6 +20,6 @@ clean:
 runB:
 	java -cp bin LSBSTAPP
 
-runL:
-	java -cp bin LSArrayApp
+runA:
+	java -cp bin AVLTApp
 	

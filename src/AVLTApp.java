@@ -1,9 +1,14 @@
 import java.io.IOError;
 import java.io.IOException;
+import java.nio.file.Paths;
 
 public class AVLTApp{
+
+    static String currentpath = System.getProperty("user.dir");
+    static String path = Paths.get(currentpath).getParent().toString() + "/";
+
     public static void main(String[] args) throws IOException{
-        String path = "/home/alaric/Documents/CSC2/Ass2/DataFiles/";
+        
 
         if (args.length == 4){
             MyAVLTree x  = new MyAVLTree(path + args[3]);
