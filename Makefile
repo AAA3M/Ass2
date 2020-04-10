@@ -2,7 +2,7 @@ JAVAC=/usr/bin/javac
 .SUFFIXES: .java .class
 SRCDIR=src
 BINDIR=bin
-JAVADOCDIR=doc
+DOCDIR=doc
 
 $(BINDIR)/%.class:$(SRCDIR)/%.java
 	$(JAVAC) -d $(BINDIR)/ -cp $(BINDIR) $<
@@ -23,3 +23,6 @@ runBST:
 
 runAVL:
 	java -cp bin AVLTApp
+
+doc:
+	javadoc -d $(DOCDIR) src/*.java
