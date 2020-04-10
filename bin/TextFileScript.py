@@ -55,7 +55,7 @@ def executeBST(DataFile):
             s = subprocess.check_output("""java LSBSTApp """ + arr[0] + ' ' + arr[1] + ' ' + arr[2] + ' ' +DataFile, shell= True)
             x = (s.decode("utf-8"))
             y = x.split('\n', 5)
-            x = y[4] +',' + y[2] +'\n'
+            x = y[5] +',' + y[3] +'\n'
 
             filew.write(x)
     filew.close()
