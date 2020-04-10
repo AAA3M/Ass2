@@ -68,3 +68,25 @@ Processing '/etc/joe/editorrc'...
 Processing '/etc/joe/ftyperc'...
 Finished processing /etc/joe/ftyperc
 Finished processing /etc/joe/editorrc
+
+*** These modified files were found in JOE when it aborted on Fri Apr 10 19:49:47 2020
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+MakeFile
+MakeFile
+MakeFile
+Makefile
+/home/alaric/Documents/CSC2/Ass1/CSC2_Binary_Trees/Makefile
+LSBSTApp
+LSBSTApp.java
+TextFileScript.py
+generate_SubSets.sh
+/home/alaric/Documents/CSC2/Ass1/CSC2_Binary_Trees/DataFiles/generate_SubSets.sh
+mkae
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc

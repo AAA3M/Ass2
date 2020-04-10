@@ -1,13 +1,20 @@
 import java.io.IOError;
 import java.io.IOException;
-import java.nio.file.Paths;
+//import java.nio.file.Paths;
 import javax.swing.*;
 import javax.swing.border.Border;
 
 import java.awt.*;
 import java.awt.event.*;
 
-
+/**
+ * AVLTApp is a GUI app that the user can interact with.
+ * The user will be able to pick the file the app reads from, and pick the stage, day, and time which the user wants to check.
+ * The Working directory for this app meant to be Ass2. This is only the case when running from the makefile or using the -cp bin command in terminal.
+ * This is where the DataFiles, which are .txt files should be stored.
+ * The user will have 2 options apart from chagning the File. The user can Print All Areas, or Print current Area. These will be written to the screen. 
+ * The terminal will also output the results from the user when the user presses buttons. This is in order to write the output to textFiles for later analysis.
+ */
 public class AVLTApp extends JFrame{
     private JPanel newPanel ;
     private JPanel panel1 ;
@@ -28,13 +35,13 @@ public class AVLTApp extends JFrame{
     private JLabel dlabel = new JLabel("Day: ");
     private JLabel tlabel = new JLabel("Time: ");
 
-    private JLabel kklabel = new JLabel("Current directory is the file before the bin. Reading data from:");
+    private JLabel kklabel = new JLabel("Files loaded from current Directory (Ass2). Reading data from:");
 
 
     private JTextPane tp = new JTextPane();
     private JScrollPane sp = new JScrollPane(tp);
-    static String currentpath = System.getProperty("user.dir");
-    static String path = Paths.get(currentpath).getParent().toString() + "/";
+    //static String currentpath = System.getProperty("user.dir");
+    //static String path = Paths.get(currentpath).getParent().toString() + "/";
 
     public AVLTApp(){
 
@@ -102,21 +109,6 @@ public class AVLTApp extends JFrame{
 
         new AVLTApp();
             
-
-    //     if (args.length == 4){
-        //        MyAVLTree x  = new MyAVLTree(path + args[3]);
-
-        //         x.printAreas(args[0], args[1], args[2]);
-
-        //  }
-
-        //  if (args.length ==1){
-            //    MyAVLTree x  = new MyAVLTree(path + args[0]);
-
-            //  x.printAllAreas();
-            //}
-            
-        //}
     }
 
     public class ButtonListen implements ActionListener {
@@ -126,7 +118,7 @@ public class AVLTApp extends JFrame{
             String letterType = buttonText;
             try {
                 if (letterType.equals("Print All Areas")){
-                    MyAVLTree x  = new MyAVLTree(path + textField2.getText());
+                    MyAVLTree x  = new MyAVLTree(textField2.getText());
                     x.printAllAreas();
                     output = x.getOutPutString();
                     tp.setText(output);
@@ -134,7 +126,7 @@ public class AVLTApp extends JFrame{
     
                 if (letterType.equals("Print Current Area")){
 
-                    MyAVLTree x  = new MyAVLTree(path + textField2.getText());
+                    MyAVLTree x  = new MyAVLTree(textField2.getText());
                     String sl = StageList.getSelectedItem().toString();
                     String dl = DayList.getSelectedItem().toString();
                     String tl = TimeList.getSelectedItem().toString();

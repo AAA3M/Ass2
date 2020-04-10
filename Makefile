@@ -2,6 +2,7 @@ JAVAC=/usr/bin/javac
 .SUFFIXES: .java .class
 SRCDIR=src
 BINDIR=bin
+JAVADOCDIR=doc
 
 $(BINDIR)/%.class:$(SRCDIR)/%.java
 	$(JAVAC) -d $(BINDIR)/ -cp $(BINDIR) $<
@@ -17,9 +18,8 @@ CLASS_FILES=$(CLASSES:%.class=$(BINDIR)/%.class)
 default: $(CLASS_FILES)
 clean:
 	rm $(BINDIR)/*.class
-runB:
-	java -cp bin LSBSTAPP
+runBST:
+	java -cp bin LSBSTApp
 
-runA:
+runAVL:
 	java -cp bin AVLTApp
-	

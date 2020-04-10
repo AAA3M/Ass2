@@ -1,6 +1,6 @@
 import java.io.IOError;
 import java.io.IOException;
-import java.nio.file.Paths;
+//import java.nio.file.Paths;
 import javax.swing.*;
 import javax.swing.border.Border;
 
@@ -41,8 +41,8 @@ public class LSBSTApp extends JFrame{
     
     private JScrollPane sp = new JScrollPane(tp);
 
-    static String currentpath = System.getProperty("user.dir");
-    static String path = Paths.get(currentpath).getParent().toString() + "/";
+    //static String currentpath = System.getProperty("user.dir");
+    //static String path = Paths.get(currentpath).getParent().toString() + "/";
 
     public LSBSTApp(){
 
@@ -120,7 +120,7 @@ public class LSBSTApp extends JFrame{
             String letterType = buttonText;
             try {
                 if (letterType.equals("Print All Areas")){
-                    MyBinTree x  = new MyBinTree(path + textField2.getText());
+                    MyBinTree x  = new MyBinTree(textField2.getText());
                     x.printAllAreas();
                     output = x.getOutPutString();
                     tp.setText(output);
@@ -128,7 +128,7 @@ public class LSBSTApp extends JFrame{
     
                 if (letterType.equals("Print Current Area")){
 
-                    MyBinTree x  = new MyBinTree(path + textField2.getText());
+                    MyBinTree x  = new MyBinTree(textField2.getText());
                     String sl = StageList.getSelectedItem().toString();
                     String dl = DayList.getSelectedItem().toString();
                     String tl = TimeList.getSelectedItem().toString();
