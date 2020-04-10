@@ -20,6 +20,7 @@ public class AVLTree<dataType extends Comparable<? super dataType>> extends Bina
 
     public int DiscreteCounterInsert = 0;
     public int DiscreteCounterFind = 0;
+    private String orderString;
 
 
    public int height ( BinaryTreeNode<dataType> node )
@@ -239,6 +240,7 @@ public class AVLTree<dataType extends Comparable<? super dataType>> extends Bina
     */
    public void treeOrder ()
    {
+      orderString = "";
       treeOrder (root, 0);
    }
    /**
@@ -254,9 +256,17 @@ public class AVLTree<dataType extends Comparable<? super dataType>> extends Bina
          for ( int i=0; i<level; i++ )
             System.out.print (" ");
          System.out.println (node.data);
+         orderString += node.data.toString() + "\n";
          treeOrder (node.left, level+1);
          treeOrder (node.right, level+1);
       }
+   }
+/**My own method to return a string interpritation of the output from a traversal
+ * 
+ * @return output of a traversal as a string
+ */
+   public String getOrderString(){
+      return this.orderString;
    }
 }
 

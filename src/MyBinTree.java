@@ -13,6 +13,7 @@ import java.io.IOException;
  */
 
 public class MyBinTree{
+    private String outputString;
     private File file;
     private int fileLength;
     private BinarySearchTree<LSData> bt;
@@ -63,7 +64,9 @@ public class MyBinTree{
      */
 
     public void printAllAreas(){
+        outputString = "";
         bt.inOrder();
+        outputString = bt.getOutputData();
 
     }
     /**
@@ -78,23 +81,33 @@ public class MyBinTree{
 
     public void printAreas(String stage, String day, String startTime){
         String check = new String (stage + "_"+day+"_"+startTime + " NA");
-
+        outputString = "";
 
             BinaryTreeNode<LSData> x = (bt.find(new LSData(check)));
             if (x==null){
                 System.out.println("No zones found for:");
+                outputString +=("No zones found for:\n");
                 System.out.println(stage + "_"+day+"_"+startTime);
+                outputString+=(stage + "_"+day+"_"+startTime) + "\n";
                 System.out.println();
-                System.out.println("Number of comparisons to insert:"+ bt.DiscreteCounterInsert);
-                System.out.println("Number of comparisons to find:" + bt.DiscreteCounter);
+                System.out.println("Number of comparisons to insert:\n"+  bt.DiscreteCounterInsert);
+                outputString +=("Number of comparisons to insert:\n"+ bt.DiscreteCounterInsert +"\n");
+                System.out.println("Number of comparisons to find:\n" + bt.DiscreteCounter);
+                outputString+=("Number of comparisons to find:\n" +bt.DiscreteCounter);
             }
             if (x != null){
                 System.out.println("Zone(s) found for:");
+                outputString+=("Zone(s) found for:\n");
                 System.out.println((x.data).toString());
+                outputString+=((x.data).toString()) +"\n";
                 System.out.println("Number of comparisons to insert:");
+                outputString+=("Number of comparisons to insert:\n");
                 System.out.println(bt.DiscreteCounterInsert);
+                outputString+=(bt.DiscreteCounterInsert) + "\n";
                 System.out.println("Number of comparisons to find:");
+                outputString+=("Number of comparisons to find:\n");
                 System.out.println(bt.DiscreteCounter);
+                outputString+=(bt.DiscreteCounter);
             
             }
             else
@@ -103,7 +116,14 @@ public class MyBinTree{
     
     
     
-    }  
+    }     
+     /**Gets the String from the printAreas or PrintAllAreas and returns it 
+    * 
+    * @return String representation of the output from the PrintAllAreas or PrintAreas method.
+    */
+    public String getOutPutString(){
+        return this.outputString;
+    }
 
 
 }

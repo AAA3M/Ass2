@@ -13,6 +13,7 @@ public class BinaryTree<dataType>
    /**
     * no argument constructor for BT, sets the root of the Tree to null
     */
+   private String outputData ="";
    public BinaryTree ()
    {
       root = null;
@@ -70,6 +71,7 @@ public class BinaryTree<dataType>
    public void visit ( BinaryTreeNode<dataType> node )
    {
       System.out.println (node.data);
+      outputData += node.data.toString() + "\n";
    }
    /**
     * no argument method to call the preOrder method on the root of this.BT
@@ -159,5 +161,9 @@ public class BinaryTree<dataType>
          if (node.getRight () != null)
             q.enQueue (node.getRight ());
       }
+   }
+
+   public String getOutputData(){
+      return outputData;
    }
 }

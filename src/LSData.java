@@ -35,9 +35,9 @@ public class LSData implements Comparable<LSData>{
     public int compareTo(LSData other){
         if (this.key == other.key){
             return 0;
-        }                                   //previous tutor marked me down for this, 
-        if (this.key < other.key){          //NOTE that you can't call this.key.compareTp(other.key) as an int is a primitive type.
-            return -1;
+        }                                   //previous tutor marked me down for this so I thought I'd mention
+        if (this.key < other.key){          //that you can't replace the code with this.key.compareTo(other.key) as an int is a primitive type.
+            return -1;                      // Rather safe than sorry ;)
         }
         else{
             return 1;
