@@ -10,7 +10,7 @@ import java.awt.event.*;
 /**
  * LSBSTApp is a GUI app that the user can interact with.
  * The user will be able to pick the file the app reads from, and pick the stage, day, and time which the user wants to check.
- * The Working directory for this app is one file before the directory of the class. ie (home/user/Documents/CSC2/bin) the directory will be (home/user/Documents/CSC2)
+ * The Working directory for this app meant to be Ass2. This is only the case when running from the makefile. or using the -cp bin command in terminal.
  * This is where the DataFiles, which are .txt files should be stored.
  * The user will have 2 options apart from chagning the File. The user can Print All Areas, or Print current Area. These will be written to the screen. 
  * The terminal will also output the results from the user when the user presses buttons. This is in order to write the output to textFiles for later analysis.
@@ -34,7 +34,7 @@ public class LSBSTApp extends JFrame{
     private JLabel dlabel = new JLabel("Day: ");
     private JLabel tlabel = new JLabel("Time: ");
 
-    private JLabel kklabel = new JLabel("Current directory is the file before the bin. Reading data from:");
+    private JLabel kklabel = new JLabel("Files loaded from current Directory (Ass2). Reading data from:");
 
     private JTextPane tp = new JTextPane();
 
