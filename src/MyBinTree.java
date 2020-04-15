@@ -66,6 +66,7 @@ public class MyBinTree{
     public void printAllAreas(){
         outputString = "";
         bt.inOrder();
+        System.out.print("\033[H\033[2J");
         outputString = bt.getOutputData();
 
     }
@@ -85,33 +86,33 @@ public class MyBinTree{
 
             BinaryTreeNode<LSData> x = (bt.find(new LSData(check)));
             if (x==null){
-                System.out.println("No zones found for:");
+                //System.out.println("No zones found for:");
                 outputString +=("No zones found for:\n");
-                System.out.println(stage + "_"+day+"_"+startTime);
+                //System.out.println(stage + "_"+day+"_"+startTime);
                 outputString+=(stage + "_"+day+"_"+startTime) + "\n";
-                System.out.println();
-                System.out.println("Number of comparisons to insert:\n"+  bt.DiscreteCounterInsert);
+                //System.out.println();
+                //System.out.println("Number of comparisons to insert:\n"+  bt.DiscreteCounterInsert);
                 outputString +=("Number of comparisons to insert:\n"+ bt.DiscreteCounterInsert +"\n");
-                System.out.println("Number of comparisons to find:\n" + bt.DiscreteCounter);
+                //System.out.println("Number of comparisons to find:\n" + bt.DiscreteCounter);
                 outputString+=("Number of comparisons to find:\n" +bt.DiscreteCounter);
             }
             if (x != null){
-                System.out.println("Zone(s) found for:");
+                //System.out.println("Zone(s) found for:");
                 outputString+=("Zone(s) found for:\n");
-                System.out.println((x.data).toString());
+                //System.out.println((x.data).toString());
                 outputString+=((x.data).toString()) +"\n";
-                System.out.println("Number of comparisons to insert:");
+                //System.out.println("Number of comparisons to insert:");
                 outputString+=("Number of comparisons to insert:\n");
-                System.out.println(bt.DiscreteCounterInsert);
+                //System.out.println(bt.DiscreteCounterInsert);
                 outputString+=(bt.DiscreteCounterInsert) + "\n";
-                System.out.println("Number of comparisons to find:");
+                //System.out.println("Number of comparisons to find:");
                 outputString+=("Number of comparisons to find:\n");
-                System.out.println(bt.DiscreteCounter);
+                //System.out.println(bt.DiscreteCounter);
                 outputString+=(bt.DiscreteCounter);
             
             }
-            else
-                System.out.println("Invalid Arguments");
+            //else
+                //System.out.println("Invalid Arguments");
             
     
     
